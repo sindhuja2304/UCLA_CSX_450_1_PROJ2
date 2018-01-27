@@ -16,9 +16,9 @@ The 4 attributes are as below
 4. petal width in cm
 
 The 3 classes in the dataset are as below
--- Iris Setosa
--- Iris Versicolour
--- Iris Virginica
+1. Iris Setosa
+2. Iris Versicolour
+3. Iris Virginica
 
 
 We measured the minimum value, maximum value, median value, mean value like below
